@@ -1,3 +1,11 @@
-#Glove
+# Glove
 
-[Glove](https://mrbeike.github.io/glove/)
+[Glove：https://mrbeike.github.io/glove/](https://mrbeike.github.io/glove/)
+
+##
+> 醒来看到你在我身边，呆呆的看了你半天，又是开心又是意外。
+>> 我便问你什么时候来的，你只是笑，不回答我。
+>>> 我又问，那么远你是怎么来的，你依旧是笑，不回答我。
+>>>> 我便知道这是梦了，原本的情绪就全消散了，
+>>>>> 只剩下失落与自责，
+>>>>>> 然后就醒了。
